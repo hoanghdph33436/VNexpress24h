@@ -9,6 +9,11 @@
                 "name": "Lionel Messi ( M10 )",
                 "reply": "Misstiano Penaldo \ud83e\udd23",
                 "time": "2024-08-04 00:48:11"
+            },
+            {
+                "name": "VNexpress24h",
+                "reply": "oke",
+                "time": "2024-08-12 07:52:51"
             }
         ],
         "likes": 2
@@ -17,7 +22,8 @@
         "name": "Lionel Messi ( M10 )",
         "email": "Messi@gmail.com",
         "comment": "Vinicius Jr., Rodrygo, Jude Bellingham, Arda Guler, Endrick, Kylian Mbappe.... \ud83d\udc4f",
-        "time": "2024-08-04 00:49:48"
+        "time": "2024-08-04 00:49:48",
+        "likes": 1
     },
     {
         "name": "Antony  ( Compa 100 tri\u00ea\u0323u Euro)",
@@ -25,11 +31,5 @@
         "comment": "Erling Haaland  \ud83e\udd23",
         "time": "2024-08-04 00:53:47",
         "likes": 1
-    },
-    {
-        "name": "Ha Dang Hoang (FPT)",
-        "email": "admin@gmail.com",
-        "comment": "ss",
-        "time": "2024-08-05 03:07:41"
     }
 ]
